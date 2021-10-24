@@ -1,7 +1,5 @@
 # Using dual moving average crossover to determine buy or sell stock.
 
-# PLEASENOTE - DONE THROUGH GOOGLE COLAB.
-
 # Import libraries. 
 import pandas as pd
 import numpy as np 
